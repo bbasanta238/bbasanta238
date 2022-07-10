@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif)
 <h1 align="center">Hi 👋, I'm Basanta Bhandari</h1>
 <h3 align="center">Love to do any project</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
