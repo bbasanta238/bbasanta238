@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web3 project**
 
-- 🌱 I’m currently learning **Reactnative,Solidity**
+- 🌱 I’m currently learning **Solidity**
 
 - ⚡ Fun fact **I love watching movies or documentary related to outer space.**
 
