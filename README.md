@@ -9,7 +9,7 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🔭 I’m currently working on **Web3 projects** at Chulo Solutions, Lallitpur.
+- 🔭 I’m currently working at Chulo Solutions, Lallitpur.
 - 🚀 I have experience in developing **multi-user software**, optimizing web applications, and integrating secure payment methods.
 - ⚡ Fun fact: **I love watching movies or documentaries related to outer space.**
 
