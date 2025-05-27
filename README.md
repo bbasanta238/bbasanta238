@@ -48,11 +48,6 @@
 #### **Version Control:**
 - Git
 
-#### **Additional Skills:**
-- Proficient in Microsoft Word and Excel
-- Web scraping techniques
-- Familiar with MVC Pattern
-
 #### **Languages:**
 - Nepali (Native), English
 
