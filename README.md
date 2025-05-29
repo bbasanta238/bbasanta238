@@ -30,7 +30,7 @@
 ---
 
 ### 📚 Education:
-- **Thapathali Campus, Kathmandu** — Bachelors in Computer Engineering (2019 – Present)
+- **Thapathali Campus, Kathmandu** — Bachelors in Computer Engineering (2019 – 2023)
 - **Kathmandu Model College, Kathmandu** — High School (2016 – 2018)
 - **Oxford Higher Secondary School, Rupandehi** — SLC (2014 – 2016)
 
