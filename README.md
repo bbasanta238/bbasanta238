@@ -22,7 +22,7 @@
 - Enhanced user experience for Web3 projects.
 - Integrated wallet transactions and tested vulnerabilities in smart contracts.
 
-#### **Internship at Chulo Solutions (Aug 2022 – Nov 2022)**
+#### **Blockchain Internship at Chulo Solutions (Aug 2022 – Nov 2022)**
 - Built a lotto app regulated by smart contracts.
 - Contributed to an exchange platform for minting and selling NFTs.
 - Synchronized on-chain and off-chain processes for a seamless user experience.
@@ -43,7 +43,7 @@
 
 #### **Development:**
 - HTML/CSS/JS/jQuery
-- Ruby on Rails, Express
+- Ruby on Rails, Express, React
 
 #### **Version Control:**
 - Git
@@ -54,11 +54,6 @@
 ---
 
 ### 🚀 Self-Projects:
-#### **Lottery App**
-- Designed and coded using Bootstrap, Solidity, and Ruby on Rails.
-- Integrated smart contract using Web3.js.
-
----
 
 ### 🌐 NFT Exchange:
 - Designed and coded using Bootstrap, Solidity, and Ruby on Rails.
